@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JetFoodNusantara</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_food">Cari Makanan</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">about_page</string>
+    <string name="lorem_ipsum">ini deskripsi</string>
+    <string name="about_page">asimap.y.tampubolon@gmail.com</string>
+</resources>
